@@ -91,5 +91,6 @@ Built an interactive Power BI dashboard to present the above insights visually, 
 ```
 
 ## Author
-[Your Name]
-[LinkedIn / Portfolio / GitHub link]
+Arindam Talukdar
+linkedin.com/in/arindam-talukdar
+https://github.com/arindam-09
